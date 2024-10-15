@@ -30,7 +30,14 @@ Additionally, the app allows users to set reminders. By clicking the "Set Remind
 
 Working Of Our Project
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-https://github.com/user-attachments/assets/9cb0537f-0101-4f4f-bc05-571c5a9088e1
+
+
+https://github.com/user-attachments/assets/a11303f2-225f-4df3-90a1-823e0d98328e
+
+
+https://github.com/user-attachments/assets/39be6435-f808-4715-8de9-ea4123c850d9
+
+
 
 Conclusion
 -------
